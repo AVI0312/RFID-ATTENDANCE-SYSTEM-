@@ -1,11 +1,11 @@
 # RFID-ATTENDANCE-SYSTEM
 A comprehensive attendance management system utilizing RFID technology and Arduino for efficient and secure attendance tracking.
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project aims to create an RFID-based attendance system that integrates with an Arduino board to provide a robust solution for tracking attendance. The system reads unique RFID tags, logs attendance, and includes features to detect and prevent proxy attendance, ensuring data integrity and security.
 
-### 🚀 Key Features
+###  Key Features
 
 - **RFID Tag Reading:** Efficiently reads and processes RFID tags for attendance logging.
 - **Arduino Integration:** Utilizes an Arduino board to control peripheral devices such as LEDs and buzzers for user feedback.
@@ -13,14 +13,14 @@ This project aims to create an RFID-based attendance system that integrates with
 - **GUI Interface:** A user-friendly interface built with Tkinter for easy interaction and system control.
 - **Attendance Logging:** Records attendance with timestamps for accurate tracking and reporting.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** Tkinter for GUI development.
 - **Backend:** Python for logic and data processing.
 - **Hardware:** Arduino Uno for controlling peripherals.
 - **Communication:** Serial communication for data transfer between RFID module and PC.
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
