@@ -43,16 +43,12 @@ This project aims to create an RFID-based attendance system that integrates with
    pip install pyfirmata tkinter serial
    ```
 
-3. **Upload Arduino Code:**
-   - Open the Arduino IDE.
-   - Upload the provided `arduino_code.ino` to your Arduino board.
-
 4. **Run the Application:**
    ```bash
    python3 ard.py
    ```
 
-## 💻 Usage
+##  Usage
 
 1. **Launch the Application:**
    - The GUI will display buttons to control the LED and start/stop attendance logging.
