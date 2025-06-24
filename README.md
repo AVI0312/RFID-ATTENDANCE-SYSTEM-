@@ -64,12 +64,6 @@ This project aims to create an RFID-based attendance system that integrates with
 3. **Proxy Detection:**
    - The system will alert if an unauthorized tag is detected.
 
-## 📸 Screenshots
-
-[Image: GUI Screenshot]
-[Image: System Diagram]
-
-
 
 
 ![Image](https://github.com/user-attachments/assets/915d3876-491b-49a9-bcea-3acbcac56482)
